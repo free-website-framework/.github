@@ -1,5 +1,18 @@
 # Description
-free-website-framework is a collection of template repositories to be used as a blueprint for internet accessible projects without public access for free. So if you try to deploy a small app that you wish you can access on any device anywhere but requires authentication, you can follow these instructions. The collection is a composition of AW lambda backend using dynamoDB database and Cloudflare pages frontend with infrastructure deployed with terraform. Authentication is done with Google identity provider so you can add gmails that can access the website. All resources created in AWS and Cloudflare have big free limits so if a traffic is small an appication will be free of charges.
+free-website-framework is a collection of template repositories to be used as a blueprint for internet accessible projects without public access for free. So if you try to deploy a small app that you wish you can access on any device anywhere but requires authentication, you can follow these instructions.
+
+The collection is a composition of AW lambda backend using dynamoDB database and Cloudflare pages frontend with infrastructure deployed with terraform. Authentication is done with Google identity provider so you can add gmails that can access the website. All resources created in AWS and Cloudflare have big free limits so if a traffic is small an appication will be free of charges.
+
 
 # Diagram
 ![Diagram](diagram.svg)
+
+
+# Prerequisite accounts:
+1. AWS
+2. Cloudflare
+3. Google/Gmail
+
+
+# How to start a new project based on free-website-framework
+

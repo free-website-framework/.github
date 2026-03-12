@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Strona-1" id="xEAf-fMIkZrVuJycMOgd">
-    <mxGraphModel dx="1226" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1227" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
             <mxPoint x="440" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vfEbIX7Khz_NUfKSc3G9-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GitHub&lt;div&gt;React + vite&lt;/div&gt;&lt;div&gt;repo: cloudflare-pages-example&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="189" x="260.5" y="370" as="geometry" />
+        <mxCell id="vfEbIX7Khz_NUfKSc3G9-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GitHub frontend&lt;div&gt;React + vite&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="290" y="370" as="geometry" />
         </mxCell>
         <mxCell id="vfEbIX7Khz_NUfKSc3G9-10" edge="1" parent="1" source="vfEbIX7Khz_NUfKSc3G9-9" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vfEbIX7Khz_NUfKSc3G9-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -58,8 +58,8 @@
         <mxCell id="vfEbIX7Khz_NUfKSc3G9-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="AWS lambda" vertex="1">
           <mxGeometry height="60" width="70" x="620" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="vfEbIX7Khz_NUfKSc3G9-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GitHub&lt;div&gt;Python fastAPI&lt;/div&gt;&lt;div&gt;repo: lambda-fastapi&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="189" x="560.5" y="370" as="geometry" />
+        <mxCell id="vfEbIX7Khz_NUfKSc3G9-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GitHub backend&lt;div&gt;Python fastAPI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="590" y="370" as="geometry" />
         </mxCell>
         <mxCell id="vfEbIX7Khz_NUfKSc3G9-16" edge="1" parent="1" source="vfEbIX7Khz_NUfKSc3G9-15" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">

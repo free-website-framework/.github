@@ -1,0 +1,1 @@
+free-website-framework is a collection of template repositories to be used for creating a free website hosted on cloudflare with AWS lambda backend using dynamoDB database.

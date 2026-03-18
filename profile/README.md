@@ -26,3 +26,9 @@ The collection is a composition of AWS lambda backend using dynamoDB database an
 
 # How to start a new project based on free-website-framework
 
+To start a new project you can use `create-project.sh` script. Before running this script run `gh auth login`. It will clone repos to your current dir so run it from a folder you want to have code locally.
+
+[create-project.sh](create-project.sh)
+
+Now you can start developing frontend and backend with local testing. When you are happy and you want to deploy it to the internet you should go to `infra` and follow its `README.md`.
+

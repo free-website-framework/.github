@@ -30,5 +30,9 @@ To start a new project you can use `create-project.sh` script. Before running th
 
 [create-project.sh](create-project.sh)
 
-Now you can start developing frontend and backend with local testing. When you are happy and you want to deploy it to the internet you should go to `infra` and follow its `README.md`.
+Now you can start developing `frontend` and `backend` repos with local testing. When you are happy and you want to deploy it to the internet you should go to `infra` and follow its `README.md`.
 
+# Example
+
+There are 3 `example` repos which deploy a simple app showing how long ago some action has happened.
+#TODO add photos when deployment of `example` repos is finished.

@@ -27,7 +27,7 @@ gh repo create $OWNER/${PROJECT}backend \
 
 gh repo create $OWNER/${PROJECT}frontend \
   --template free-website-framework/frontend \
-  --public \
+  --private \
   --clone
 
 gh repo create $OWNER/${PROJECT}infra \

@@ -22,15 +22,15 @@ fi
 
 gh repo create $OWNER/${PROJECT}backend \
   --template free-website-framework/backend \
-  --public
+  --private \
   --clone
 
 gh repo create $OWNER/${PROJECT}frontend \
   --template free-website-framework/frontend \
-  --public
+  --public \
   --clone
 
 gh repo create $OWNER/${PROJECT}infra \
   --template free-website-framework/infra \
-  --public
+  --private \
   --clone

@@ -32,6 +32,20 @@ To start a new project you can use `create-project.sh` script. Before running th
 
 Now you can start developing `frontend` and `backend` repos with local testing. When you are happy and you want to deploy it to the internet you should go to `infra` and follow its `README.md`.
 
+
+# How to update your repos when there are changes to template repos
+
+You can follow this commands to fetch and merge changes in template repos:
+
+```
+git remote add template git@github.com:free-website-framework/<choose one of frontend/backend/infra>.git
+git fetch template
+git merge template/main --allow-unrelated-histories
+```
+
+and resolve the conflicts using `Accept incoming changes`.
+
+
 # Example
 
 There are 3 `example` repos which deploy a simple app showing how long ago some action has happened.

@@ -40,7 +40,7 @@ You can follow this commands to fetch and merge changes in template repos:
 ```
 git remote add template git@github.com:free-website-framework/<choose one of frontend/backend/infra>.git
 git fetch template
-git merge template/main --allow-unrelated-histories
+git merge template/main --squash --allow-unrelated-histories
 ```
 
 and resolve the conflicts using `Accept incoming changes`.
